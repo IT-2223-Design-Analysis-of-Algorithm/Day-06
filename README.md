@@ -48,7 +48,9 @@ Edit
 Modify target values to test different scenarios.
 
 📈 Performance Insight
-Search Type	Best Case	Worst Case	Time Complexity
-Linear Search	O(1)	O(n)	Simple but slow for large data
-Binary Search	O(1)	O(log n)	Fast but requires sorted data
+## 📊 Performance Comparison
 
+| 🔍 **Search Type** | ⚡ **Best Case** | 🐢 **Worst Case** | ⏱️ **Time Complexity**                       |
+|--------------------|------------------|--------------------|---------------------------------------------|
+| Linear Search       | O(1)             | O(n)               | Simple but slow for large data              |
+| Binary Search       | O(1)             | O(log n)           | Fast but requires sorted data               |
